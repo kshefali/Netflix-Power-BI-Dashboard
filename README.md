@@ -1,1 +1,1 @@
-# Netflix-Power-BI-Dashboard
+# Power-BI-Netflix-Project
